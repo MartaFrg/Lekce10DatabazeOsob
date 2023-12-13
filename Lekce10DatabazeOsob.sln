@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekce10DatabazeOsob", "Lekce10DatabazeOsob.csproj", "{B18E936A-B16A-4E3B-AB3C-B5F410A8AEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18E936A-B16A-4E3B-AB3C-B5F410A8AEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18E936A-B16A-4E3B-AB3C-B5F410A8AEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18E936A-B16A-4E3B-AB3C-B5F410A8AEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18E936A-B16A-4E3B-AB3C-B5F410A8AEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1807A8-9084-4A49-B69C-7FC4642818E4}
+	EndGlobalSection
+EndGlobal
